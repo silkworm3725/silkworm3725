@@ -1,0 +1,6 @@
+echo "# silkworm3725" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/silkworm3725/silkworm3725.git
+git push -u origin master
